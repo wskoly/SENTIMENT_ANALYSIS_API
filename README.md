@@ -42,12 +42,17 @@ This project provides an API endpoint for sentiment analysis. It allows you to a
     python APIS/analyzer.py
     ``` 
     
-6.  Run the project using the following command:   
+6.  Apply the migrations using following command (Optional):   
+    ```
+    python manage.py migrate
+    ```
+    
+7.  Run the project using the following command:   
     ```
     python manage.py runserver 0.0.0.0:8000
-    ``` 
-    
-7.  You can access the API endpoint by visiting [http://127.0.0.1:8000/analyze/](http://127.0.0.1:8000/analyze/) or using a tool like Postman to interact with it.
+    ```
+      
+8.  You can access the API endpoint by visiting [http://127.0.0.1:8000/analyze/](http://127.0.0.1:8000/analyze/) or using a tool like Postman to interact with it.
     
 
 ## Project walkthrough
