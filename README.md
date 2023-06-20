@@ -8,7 +8,7 @@ This project provides an API endpoint for sentiment analysis. It allows you to a
 
 > Note: This project was created and tested with Python version 3.11.3.
 > If you encounter any issues while setting up the project with a
-> different Python version, we recommend using Python 3.11.3 for optimal
+> different Python version, I recommend using Python 3.11.3 for optimal
 > compatibility.
 
 1.  Clone the project using the following command:   
